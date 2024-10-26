@@ -22,3 +22,15 @@ describe("anchor_vault", () => {
     console.log("Your transaction signature", tx);
   });
 });
+
+// anchor_vault
+// Your transaction signature 5Y2GmesQpHDNJ4st8Zh6MawaAQRsimKAzt7at3niPFagMM7zMuFdbgRzyzUbrHAZRSBmj4ugFvcun4g12KwuNDmJ
+//     ✔ Is initialized! (337ms)
+// Your transaction signature n5jJrVDNQnCuxjeFY9v7YR6juULfdaU6XjRDaHSLMjDciuRnMNhcg2pcPRHivAXeyfBeug65MLwKg5fbcRpsgcW
+//     ✔ deposit (418ms)
+// Your transaction signature 4cEw36vvHCzX7WtRrVhwzNAb4NR7zTiNQWCHsWtkHSqxgWjZX8tCGQzntzQ1kdpmvrFo8BKUSHHAQeYcDgX6Mjmq
+//     ✔ withdraw (400ms)
+
+//   3 passing (1s)
+
+// Done in 3.71s.
