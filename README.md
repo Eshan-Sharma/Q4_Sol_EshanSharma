@@ -18,7 +18,7 @@ The portfolio is organized week-by-week, with each project demonstrating core co
 
 ## 🏆 Capstone Project: 
 
-### **Turbine3 Capstone initial draft**
+### **Turbine3 Capstone initial draft [26 Oct 2024]**
 
 **1. Brief Project Description**
    
