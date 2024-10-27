@@ -72,7 +72,7 @@ impl<'info> Take<'info> {
 
         let cpi_ctx = CpiContext::new(self.token_program.to_account_info(), transfer_accounts);
 
-        transfer_checked(cpi_ctx, self.escrow.recieve, self.mint_b.decimals)
+        transfer_checked(cpi_ctx, self.escrow.receive, self.mint_b.decimals)
     }
 
     pub fn withdraw_and_close_vault(&mut self) -> Result<()> {
