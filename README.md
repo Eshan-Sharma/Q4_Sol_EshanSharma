@@ -13,6 +13,9 @@ The portfolio is organized week-by-week, with each project demonstrating core co
 **Week 2:**  
 - **Vault Program:** Designed a secure token vault for deposits and withdrawals.  
 - **Escrow Service:** Developed a trustless escrow program with maker, taker and refund capabilities.
+
+**Week 3:**  
+- **NFT Staking:** Created an NFT staking program to reward holders based on staking duration.
  
 ---
 
